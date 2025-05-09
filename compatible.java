@@ -29,6 +29,8 @@ public class compatible {
             }
         }
 
-        if(count == )
+        if(count == 0){
+            
+        }
     }
 }
