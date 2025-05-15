@@ -12,7 +12,7 @@ public class GoodInt {
         }
 
         for (int i = 0; i < 5; i++) {
-            int cbrt = (int) Math.cbrt(arr[i]);  
+            int cbrt = (int) Math.cbrt(arr[i]); 
             int lb = 1, ub = cbrt;  
 
             while (lb <= ub) {  
